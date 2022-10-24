@@ -1,4 +1,4 @@
-# Project 3 - *Parstergram*
+    # Project 3 - *Parstergram*
 
 **Parstergram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
